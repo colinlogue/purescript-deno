@@ -1,0 +1,22 @@
+package:
+  dependencies:
+    - aff
+    - aff-promise
+    - argonaut
+    - arraybuffer-types
+    - console
+    - effect
+    - either
+    - functions
+    - maybe
+    - ordered-collections
+    - prelude
+    - strings
+    - tuples
+    - unsafe-coerce
+    - web-streams
+  name: deno
+workspace:
+  extraPackages: {}
+  packageSet:
+    registry: 64.8.0
